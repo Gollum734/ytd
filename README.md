@@ -28,8 +28,8 @@ Linux (Debian/Ubuntu): sudo apt update && sudo apt install ffmpeg
 
 Repository klonen:
 
-git clone https://github.com/DEIN-BENUTZERNAME/DEIN-REPO-NAME.git
-cd DEIN-REPO-NAME
+git clone https://github.com/Gollum734/ytd.git
+cd ytd
 
 
 Abhängigkeiten installieren:
